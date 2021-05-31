@@ -1,1 +1,1 @@
-# Fake-News-Classification-using-Vectorized-Symentic-and-Syntactic-Analysis
+# Fake-News-Classification-using-Vectorized-Semantic-and-Syntactic-Analysis
